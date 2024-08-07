@@ -1,0 +1,45 @@
+{
+  "Layout": {
+    "Navigation": {
+      "courseProgram": "Course Program",
+      "bootcamp": "Bootcamp",
+      "community": "Community",
+      "aboutUs": "About Us",
+      "exploreCourse": "Explore Course"
+    }
+  },
+  "HomePage": {
+    "Hero": {
+      "title": "Access the Best Next JS Fullstack Course on Internet by JB",
+      "description": "Learn how to build Fullstack Production ready applications with Next.js and TypeScript. From auth to production, we build together 3 systems in 1 app that you can use for your own projects. Get access to the course for only $100.",
+      "enrollNow": "Enroll Now"
+    },
+    "WhyUs": {
+      "title": "Why Choose this Course?",
+      "points": [
+        {
+          "title": "Real-World Applications",
+          "description": "Students build a production-ready application that includes Ecommerce, Point of Sale, and Inventory Management systems."
+        },
+        {
+          "title": "Advanced Yet Accessible",
+          "description": "The course tackles advanced concepts explained step-by-step, making it suitable for all skill levels."
+        },
+        {
+          "title": "Hands-On Learning",
+          "description": "Emphasizes practical, project-based learning rather than just theoretical knowledge."
+        },
+        {
+          "title": "Comprehensive Curriculum",
+          "description": "Covers fullstack development with Next.js, TypeScript, Prisma, and MongoDB, ensuring a thorough understanding of modern web development."
+        }
+      ]
+    }
+  },
+  "AboutPage": {
+    "Section": {
+      "title": "About Us",
+      "description": "Learn with JB offers comprehensive courses in modern web development technologies. Our mission is to equip developers with the skills they need to build production-ready applications."
+    }
+  }
+}

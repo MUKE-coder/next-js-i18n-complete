@@ -1,0 +1,46 @@
+{
+  "Layout": {
+    "Navigation": {
+      "courseProgram": "Programme de Cours",
+      "bootcamp": "Bootcamp",
+      "community": "Communauté",
+      "aboutUs": "À Propos de Nous",
+      "exploreCourse": "Explorer le Cours"
+    }
+  },
+  "HomePage": {
+    "Hero": {
+      "title": "Accédez au Meilleur Cours Fullstack Next JS sur Internet par JB",
+      "description": "Apprenez à créer des applications Fullstack prêtes pour la production avec Next.js et TypeScript. De l'authentification à la production, nous construisons ensemble 3 systèmes en 1 application que vous pouvez utiliser pour vos propres projets. Accédez au cours pour seulement 100 $.",
+      "enrollNow": "Inscrivez-vous Maintenant"
+    },
+    "WhyUs": {
+      "title": "Pourquoi Choisir ce Cours ?",
+      "points": [
+        {
+          "title": "Applications du Monde Réel",
+          "description": "Les étudiants construisent une application prête pour la production qui inclut des systèmes de commerce électronique, de point de vente et de gestion des stocks."
+        },
+        {
+          "title": "Avancé mais Accessible",
+          "description": "Le cours aborde des concepts avancés expliqués étape par étape, ce qui le rend adapté à tous les niveaux de compétence."
+        },
+        {
+          "title": "Apprentissage Pratique",
+          "description": "Mets l'accent sur l'apprentissage pratique basé sur des projets plutôt que sur la simple théorie."
+        },
+        {
+          "title": "Programme Complet",
+          "description": "Couvre le développement fullstack avec Next.js, TypeScript, Prisma et MongoDB, garantissant une compréhension approfondie du développement web moderne."
+        }
+      ]
+    }
+  },
+  "AboutPage": {
+    "Section": {
+      "title": "Apprenez avec JB Développeur Web",
+      "description": "Apprenez avec JB propose des cours complets sur les technologies modernes de développement web. Notre mission est de doter les développeurs des compétences nécessaires pour créer des applications prêtes pour la production.",
+      "subscribe": "Regardez des Cours Gratuits sur YouTube"
+    }
+  }
+}

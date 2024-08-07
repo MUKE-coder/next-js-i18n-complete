@@ -1,0 +1,62 @@
+{
+  "Layout": {
+    "Navigation": {
+      "courseProgram": {
+        "title": "Programme de cours",
+        "href": "/course-program"
+      },
+      "bootcamp": {
+        "title": "Bootcamp",
+        "href": "/bootcamp"
+      },
+      "community": {
+        "title": "Communauté",
+        "href": "/community"
+      },
+      "aboutUs": {
+        "title": "À propos de nous",
+        "href": "/about"
+      }
+    },
+    "Config": {
+      "logo": "Apprenez avec JB",
+      "cta": "Explorer le cours"
+    }
+  },
+  "HomePage": {
+    "Hero": {
+      "title": "Accédez au meilleur cours Fullstack Next JS sur Internet par JB",
+      "description": "Apprenez à construire des applications Fullstack prêtes pour la production avec Next.js et TypeScript. De l'authentification à la production, nous construisons ensemble 3 systèmes en 1 application que vous pouvez utiliser pour vos propres projets. Accédez au cours pour seulement 100 $.",
+      "enrollNow": "Inscrivez-vous maintenant"
+    },
+    "WhyUs": {
+      "title": "Pourquoi choisir ce cours ?",
+      "points": {
+        "real-world": {
+          "title": "Applications du monde réel",
+          "description": "Les étudiants construisent une application prête pour la production qui comprend des systèmes de commerce électronique, de point de vente et de gestion des stocks."
+        },
+        "advanced": {
+          "title": "Avancé mais accessible",
+          "description": "Le cours aborde des concepts avancés expliqués étape par étape, le rendant adapté à tous les niveaux de compétence."
+        },
+        "hands-on": {
+          "title": "Apprentissage pratique",
+          "description": "Met l'accent sur l'apprentissage pratique basé sur des projets plutôt que sur la connaissance théorique."
+        },
+        "comprehensive": {
+          "title": "Programme complet",
+          "description": "Couvre le développement fullstack avec Next.js, TypeScript, Prisma et MongoDB, garantissant une compréhension approfondie du développement web moderne."
+        }
+      },
+      "enrollNow": "Inscrivez-vous maintenant"
+    }
+  },
+  "AboutPage": {
+    "Section": {
+      "title": "Apprenez avec JB Web Developer",
+      "description": "Apprenez avec JB propose des cours complets sur les technologies modernes de développement web. Notre mission est de doter les développeurs des compétences nécessaires pour créer des applications prêtes pour la production.",
+      "subscribe": "Regardez des cours gratuits sur YouTube"
+    }
+  }
+}
